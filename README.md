@@ -9,7 +9,7 @@ Stock market data is **time-series, non-linear, and volatile**, and prices are i
 
 By combining **historical stock prices** with **sentiment scores extracted from news or text data**, the model attempts to improve prediction accuracy and capture real-world market behavior more effectively.
 
-This project was developed as a **Mini Project (Review–1)** under the Department of Computer Science & Engineering (AIML).
+This project was developed as a **Mini Project ** under the Department of Computer Science & Engineering (AIML).
 
 ## 🎯 Objectives
 
