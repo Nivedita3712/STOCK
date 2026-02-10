@@ -148,5 +148,3 @@ Sentiment features help the model capture market reactions to news and events.
 * Real-time news sentiment integration
 * Social media sentiment analysis (Twitter/X)
 * Deployment as a web application
--
-
